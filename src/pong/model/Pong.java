@@ -82,6 +82,7 @@ public class Pong {
             respawn();
         }
     }
+    //Hej
     public void twirl(Paddle paddle){
         if (paddle.getDy() == 0) {
             ball.setDy(ball.getDy());
