@@ -83,6 +83,7 @@ public class Pong {
         }
     }
     //Hej
+    //HEHHEEHEHEH
     public void twirl(Paddle paddle){
         if (paddle.getDy() == 0) {
             ball.setDy(ball.getDy());
